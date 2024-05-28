@@ -110,6 +110,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="br.com.projeto.conexao\ConnectionFactory.cs" />
+    <Compile Include="br.com.projeto.model\C1iente.cs" />
     <Compile Include="br.com.projeto.model\nivelacesso.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="br.com.projeto.view\FrmCadastro.cs">
