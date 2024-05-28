@@ -110,6 +110,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="br.com.projeto.conexao\ConnectionFactory.cs" />
+    <Compile Include="br.com.projeto.model\nivelacesso.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="br.com.projeto.view\FrmCadastro.cs">
       <SubType>Form</SubType>
@@ -352,8 +353,6 @@
   <ItemGroup>
     <None Include="br.com.projeto.view\img\iconDinheiro2.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="br.com.projeto.model\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
